@@ -1,0 +1,7 @@
+{
+  "abc_client": "xml_to_json",
+  "xyz_client": "json_to_xml",
+  "demo_user": "text_to_json",
+  "test_client": "xml_to_text",
+  "sample_project": "json_to_text"
+}
